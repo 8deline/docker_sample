@@ -1,0 +1,7 @@
+{
+  "appId": "cxhlGG1P96GzSY5V7AVz1l9Q3CKh22JngoQYD84b",
+  "masterKey": "ob0A91y3yLbsch59sYhNOlt6vFy8PsyGlzPA5rvR",
+  "appName": "parse_server",
+  "cloud": "./cloud/main",
+  "databaseURI": "mongodb+srv://parse_server:parse_server@parseserver.7tiy4.mongodb.net/test"
+}
